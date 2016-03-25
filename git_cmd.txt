@@ -1,4 +1,4 @@
-Use the following commands:
+Use the following commands for readme.md or for a markdown file:
 
 ## Double hash means we are creating a header
 
@@ -11,3 +11,17 @@ This is a simple text for a line. . .
 
 Keep adding more text, commands ...
 
+
+Git Commands:
+--------------
+touch <filename>.<extension> --> will create an empty file
+ls --> list all files in a given directory
+git --help --> will provide all the required help commands for using git
+git init --> will initialize the git
+git clone <url> --> will clone an existing repository on your computer
+git status --> will show you the status of the files that are added and not added to the repository
+git log --> shows the log messages for every commit performed
+git add <filename> --> will add or push the individual file to the existing repository
+git add . --> '.' period will add or push all the files to the existing repository
+git commit -m "comment" --> will commit to the repository and make sure to add coments that are less than 50 charcater in length.
+git push origin master --> pushes the changes to the originmaster in github repository
