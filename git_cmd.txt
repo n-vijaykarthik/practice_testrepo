@@ -1,0 +1,13 @@
+Use the following commands:
+
+## Double hash means we are creating a header
+
+This is a simple text for a line. . .
+
+* Star or Asterik means bullets
+* second bullet ...
+[SearchLink to Google](http://www.google.com)
+[SearchLink to Yahoo] (http://www.yahoo.com )
+
+Keep adding more text, commands ...
+
